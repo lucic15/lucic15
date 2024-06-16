@@ -1,21 +1,24 @@
-name: wakatime-stats
+name: Waka Stats
 
 on:
+  # Manual workflow trigger
   workflow_dispatch:
+  # Scheduled daily update
   schedule:
-    - cron: '0 12 * * *'
+    - cron: "0 12 * * *"
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update Waka Stats
+        uses: anmol098/waka-readme-stats@master
         with:
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated dev metrics"
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "Updated detailed Waka stats"
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
