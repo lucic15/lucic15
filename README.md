@@ -14,7 +14,6 @@ CSS          26 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![wakatime-stats](https://github.com/lucic15/lucic15/actions/workflows/waka.yml/badge.svg)](https://github.com/lucic15/lucic15/actions/workflows/waka.yml)
 <!--START_SECTION:waka-simple-->
 
 
