@@ -31,9 +31,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
-          SECTION_NAME: "waka-simple"
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
+
