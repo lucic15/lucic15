@@ -9,7 +9,7 @@
 
 ```yaml
 name: Luka Lucic
-from: Podgorica, Montenegro
+from: Niksic, Montenegro
 job: null
 fields_of_interests:
   - "Artificial Intelligence"
