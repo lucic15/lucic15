@@ -34,17 +34,44 @@ hobbies:
 **Stats from the last 7 days (because I enabled this 7 days ago)**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2013%20mins-blue)
 
-```txt
-From: 21 November 2023 - To: 30 June 2024
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-861.2%20thousand%20lines%20of%20code-blue)
 
-Total Time: 14 hrs 13 mins
+**🐱 My GitHub Data** 
 
-JavaScript   4 hrs 45 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.43 %
-TypeScript   3 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.08 %
-HTML         2 hrs 10 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.24 %
-Text         1 hr 58 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.82 %
-Python       1 hr 2 mins     ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.28 %
+> 📦 121.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 255 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 16 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+🌆 Daytime                103 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌃 Evening                85 commits          ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌙 Night                  111 commits         █████████░░░░░░░░░░░░░░░░   34.91 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Budapest
+
+💬 Programming Languages: 
+JavaScript               0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+react-millionaire        0 secs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/07/2024 12:12:20 UTC
 <!--END_SECTION:waka-->
