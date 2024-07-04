@@ -7,31 +7,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=lucic15&theme=onedark&row=1&column=3" />
 </p>
 
-```yaml
-name: Luka Lucic
-from: Niksic, Montenegro
-job: null
-fields_of_interests:
-  - "Artificial Intelligence"
-  - "Machine Learning"
-  - "Cyber Security"
-  - "Network Security"
-  - "Internet of Things"
-currently_learning:
-  - "."
-  - "."
-  - "."
-will_learn:
-  - "."
-hobbies:
-  - "Gaming"
-  - "Music"
-  - "Learning"
-```
 
-***
-
-**Stats from the last 7 days (because I enabled this 7 days ago)**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2013%20mins-blue)
