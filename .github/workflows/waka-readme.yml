@@ -1,26 +1,26 @@
-name: Waka Readme
+# name: Waka Readme
 
-on:
-  # Manual workflow trigger
-  workflow_dispatch:
-  # Scheduled daily update
-  schedule:
-    - cron: "0 0 * * *"
+# on:
+#   # Manual workflow trigger
+#   workflow_dispatch:
+#   # Scheduled daily update
+#   schedule:
+#     - cron: "0 0 * * *"
 
-jobs:
-  update-readme:
-    name: Update Readme with Waka Simple Stats
-    runs-on: ubuntu-latest
-    steps:
-      - name: Update Waka Simple Stats
-        uses: athul/waka-readme@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: "waka-simple"
-          COMMIT_MESSAGE: "Updated simple Waka stats section"
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
+# jobs:
+#   update-readme:
+#     name: Update Readme with Waka Simple Stats
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Update Waka Simple Stats
+#         uses: athul/waka-readme@master
+#         with:
+#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SECTION_NAME: "waka-simple"
+#           COMMIT_MESSAGE: "Updated simple Waka stats section"
+#           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+#           TIME_RANGE: all_time
+#           SHOW_TIME: true
+#           SHOW_MASKED_TIME: true
+#           SHOW_TITLE: true
