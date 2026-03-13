@@ -1,6 +1,4 @@
 
-![64dbfb279110e5730b698a752532605b](https://github.com/lucic15/lucic15/assets/69390868/e4afab44-0bf1-4690-88ea-dc6e2ac6073f)
-
 ***
 
 <p align="center">
